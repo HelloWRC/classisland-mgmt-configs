@@ -5,11 +5,11 @@
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/HelloWRC/classisland-mgmt-configs/master/TestProfile.json",
-        "Version": 0
+        "Version": 1
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/HelloWRC/classisland-mgmt-configs/master/TestProfile.json",
-        "Version": 0
+        "Version": 1
     },
     "DefaultSettingsSource": {
         "Value": null,
