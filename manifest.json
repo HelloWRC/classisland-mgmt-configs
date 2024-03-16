@@ -1,0 +1,24 @@
+{
+    "ClassPlanSource": {
+        "Value": null,
+        "Version": 0
+    },
+    "TimeLayoutSource": {
+        "Value": null,
+        "Version": 0
+    },
+    "SubjectsSource": {
+        "Value": null,
+        "Version": 0
+    },
+    "DefaultSettingsSource": {
+        "Value": null,
+        "Version": 0
+    },
+    "PolicySource": {
+        "Value": null,
+        "Version": 0
+    },
+    "ServerKind": 0,
+    "OrganizationName": "Test Organization"
+}
