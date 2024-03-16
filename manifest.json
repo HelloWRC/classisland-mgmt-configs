@@ -1,7 +1,7 @@
 {
     "ClassPlanSource": {
-        "Value": null,
-        "Version": 0
+        "Value": "https://raw.githubusercontent.com/HelloWRC/classisland-mgmt-configs/master/TestProfile.json",
+        "Version": 1
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/HelloWRC/classisland-mgmt-configs/master/TestProfile.json",
