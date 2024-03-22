@@ -17,7 +17,7 @@
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/HelloWRC/classisland-mgmt-configs/master/policy.json",
-        "Version": 1
+        "Version": 2
     },
     "ServerKind": 0,
     "OrganizationName": "Test Organization"
