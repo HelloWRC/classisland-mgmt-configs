@@ -3,7 +3,7 @@
     "DisableProfileTimeLayoutEditing": true,
     "DisableProfileSubjectsEditing": true,
     "DisableProfileEditing": true,
-    "DisableSettingsEditing": false,
+    "DisableSettingsEditing": true,
     "DisableSplashCustomize": true,
     "DisableDebugMenu": true,
     "AllowExitManagement": false
