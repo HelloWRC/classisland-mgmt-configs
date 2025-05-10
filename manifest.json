@@ -19,7 +19,7 @@
         "Value": "https://raw.githubusercontent.com/HelloWRC/classisland-mgmt-configs/master/policy.json",
         "Version": 2
     },
-    "CredentialSource": {
+    "ComponentsSource": {
         "Value": "https://raw.githubusercontent.com/HelloWRC/classisland-mgmt-configs/master/comps.json",
         "Version": 1
     },
