@@ -19,6 +19,10 @@
         "Value": "https://raw.githubusercontent.com/HelloWRC/classisland-mgmt-configs/master/policy.json",
         "Version": 2
     },
+    "CredentialSource": {
+        "Value": "https://raw.githubusercontent.com/HelloWRC/classisland-mgmt-configs/master/comps.json",
+        "Version": 1
+    },
     "ServerKind": 0,
     "OrganizationName": "Test Organization"
 }
